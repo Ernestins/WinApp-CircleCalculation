@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinApp-CircleCalculation", "WinApp-CircleCalculation\WinApp-CircleCalculation.csproj", "{F3CD7071-CE8F-4F4D-BA17-D30EC04F064B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CD7071-CE8F-4F4D-BA17-D30EC04F064B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CD7071-CE8F-4F4D-BA17-D30EC04F064B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CD7071-CE8F-4F4D-BA17-D30EC04F064B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CD7071-CE8F-4F4D-BA17-D30EC04F064B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C5F669-15A2-4F0B-81C2-42C2DAECE1E1}
+	EndGlobalSection
+EndGlobal
